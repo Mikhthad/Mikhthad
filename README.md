@@ -1,27 +1,83 @@
 <h1 align="center">Hi 👋, I'm Mikhthad T T</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">
+Python Full Stack Developer | Django • React • Data & AI Enthusiast
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikhthad&label=Profile%20views&color=0e75b6&style=flat" alt="mikhthad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikhthad" alt="mikhthad" /></a> </p>
-
-- 🔭 I’m currently working on **Data Analyst Project**
-
-- 👯 I’m looking to collaborate on **python, power bi, sql, machinelearning**
-
-- 📫 How to reach me **mikhthadmikku06@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mikhthad t t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikhthad t t" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mikhthad t t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mikhthad t t" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mikhthad&label=Profile%20views&color=0e75b6&style=flat" alt="mikhthad" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikhthad&show_icons=true&locale=en&layout=compact" alt="mikhthad" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikhthad&show_icons=true&locale=en" alt="mikhthad" /></p>
+- 🎓 B.Com Graduate from Calicut University  
+- 💻 Python Full Stack Intern with hands-on experience in **Django & React**
+- 📊 Strong background in **Data Analysis, SQL, and Machine Learning**
+- 🚀 Passionate about building **real-world web applications**
+- 🌱 Currently improving my skills in **AI-powered applications**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikhthad&" alt="mikhthad" /></p>
+---
+
+### 🔭 Current Work
+- Working on **Data Analysis & Full Stack Projects**
+- Building scalable backend APIs and interactive frontend interfaces
+
+---
+
+### 🤝 Looking to Collaborate On
+- Python & Django Projects  
+- Full Stack Web Applications  
+- Data Analytics & Machine Learning Projects  
+- SQL & Dashboard-based Applications  
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **mikhthadmikku06@gmail.com**
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/mikhthad-t-t
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/mikhthad-t-t" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/mikhthadmikku06" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikhthad&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhthad&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikhthad" />
+</p>
