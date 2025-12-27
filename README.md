@@ -36,7 +36,7 @@ Python Full Stack Developer | Django • React • Data & AI Enthusiast
 ### 📫 Contact Me
 - 📧 Email: **mikhthadmikku06@gmail.com**
 - 💼 LinkedIn:  
-  https://www.linkedin.com/in/mikhthad-t-t
+  www.linkedin.com/in/mikhthad
 
 ---
 
